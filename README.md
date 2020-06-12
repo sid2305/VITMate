@@ -1,2 +1,2 @@
-# edmate
+# VITMate
 An autonomous chat-bot
